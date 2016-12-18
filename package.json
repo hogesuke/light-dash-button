@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hogesuke/light-dash-button#readme",
   "dependencies": {
-    "node-dash-button": "^0.6.1"
+    "node-dash-button": "^0.6.1",
+    "socket.io-client": "^1.7.2"
   }
 }
