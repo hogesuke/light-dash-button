@@ -1,3 +1,5 @@
+"use strict";
+
 const dash_button = require('node-dash-button');
 const config = require('./config/config.json');
 const io = require('socket.io-client');
